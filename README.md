@@ -41,7 +41,7 @@ A powerful command-line task management system built with Python that helps you 
 
 2. **Navigate** to the application directory:
    ```bash
-   cd cli_app
+   cd app_task_manager_cli
    ```
 
 3. **Run the application**:
@@ -223,7 +223,7 @@ python3 -m unittest test_unittest -v
 
 ### File Structure
 ```
-cli_app/
+app_task_manager_cli/
 ├── app.py              # Main application and user interface
 ├── models.py           # Task and TaskManager classes
 ├── test_unittest.py    # Comprehensive test suite
